@@ -49,5 +49,5 @@ set runtimepath^=~/.vim/bundle/vim-airline
 let g:airline#extensions#tabline#enabled = 1
 
 " load airline themes
-set runtimepath^=/.vim/bundle/vim-airline-themes
+set runtimepath^=~/.vim/bundle/vim-airline-themes
 
