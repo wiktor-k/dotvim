@@ -50,4 +50,5 @@ let g:airline#extensions#tabline#enabled = 1
 
 " load airline themes
 set runtimepath^=~/.vim/bundle/vim-airline-themes
+let g:airline_theme='luna'
 
