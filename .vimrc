@@ -1,5 +1,11 @@
 colorscheme zenburn
 
+" enable syntax highlighting
+syntax on
+
+" automatically detect file type
+filetype plugin indent on
+
 " show line numbers
 set number
 
