@@ -51,6 +51,9 @@ set runtimepath^=~/.vim/bundle/ctrlp.vim
 " map Ctrl+P to CtrlP
 let g:ctrlp_map = '<c-p>'
 
+" make vim background transparent
+hi Normal guibg=NONE ctermbg=NONE
+
 " enable nice bottom bar
 set runtimepath^=~/.vim/bundle/vim-airline
 
