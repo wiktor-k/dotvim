@@ -1,5 +1,8 @@
 colorscheme zenburn
 
+" disable vi compatibility
+set nocompatible
+
 " enable syntax highlighting
 syntax on
 
