@@ -67,3 +67,6 @@ let g:airline#extensions#tabline#enabled = 1
 set runtimepath^=~/.vim/bundle/vim-airline-themes
 let g:airline_theme='luna'
 
+" enable redact pass
+set runtimepath^=~/.vim/bundle/redact_pass
+
