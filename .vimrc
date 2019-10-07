@@ -39,6 +39,9 @@ set ignorecase
 " but not if pattern contains uppercase
 set smartcase
 
+" enable spell checking in English (US)
+set spell spelllang=en_us
+
 " common typos when shift is pressed
 :command WQ wq
 :command Wq wq
